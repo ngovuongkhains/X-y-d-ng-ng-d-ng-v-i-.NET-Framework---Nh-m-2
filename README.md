@@ -1,2 +1,4 @@
 # Xay dung ung dung voi .NET Framework Nhom 2
-Trần Đức Tâm 18T1021278
+Họ và tên : Trần Đức Tâm
+Mã sinh viên : 18T1021278
+Email : tdtdhkhh@gmail.com
